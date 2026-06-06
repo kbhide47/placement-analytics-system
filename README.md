@@ -134,6 +134,12 @@ Through this project, I gained practical experience in:
 
 ---
 
+## Screenshot
+
+### Main Menu
+
+![Main Menu](screenshots/main_menu.png)
+
 ## Author
 
 Kasturi Bhide
